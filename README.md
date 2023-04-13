@@ -1,6 +1,11 @@
 # Nodeバージョン
 18.14.2
 
+# env
+touch .env.local
+REACT_APP_DOMAIN=ドメイン
+REACT_APP_CLIENT_ID=クライアントID
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
